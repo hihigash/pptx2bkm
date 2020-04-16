@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pptx2bkm": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \"C:\\Users\\hihigash\\Desktop\\AIP_WIP_Investigation_Report_20200415.pptx\" -o out.txt"
+    }
+  }
+}
